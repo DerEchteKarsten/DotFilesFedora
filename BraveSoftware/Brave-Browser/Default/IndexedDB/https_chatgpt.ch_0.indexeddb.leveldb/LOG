@@ -1,0 +1,6 @@
+2023/06/08-21:51:11.294 f2f Creating DB /home/karsten/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.ch_0.indexeddb.leveldb since it was missing.
+2023/06/08-21:51:11.298 f2f Reusing MANIFEST /home/karsten/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.ch_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/08-21:51:43.529 f30 Level-0 table #5: started
+2023/06/08-21:51:43.530 f30 Level-0 table #5: 2295 bytes OK
+2023/06/08-21:51:43.534 f30 Delete type=0 #3
+2023/06/08-21:51:43.534 f30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

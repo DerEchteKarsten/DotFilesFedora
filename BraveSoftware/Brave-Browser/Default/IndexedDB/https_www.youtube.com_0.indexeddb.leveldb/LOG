@@ -1,0 +1,5 @@
+2023/06/14-17:19:20.094 14aa Reusing MANIFEST /home/karsten/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/14-17:19:20.096 14aa Recovering log #349
+2023/06/14-17:19:20.103 14aa Reusing old log /home/karsten/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000349.log 
+2023/06/14-17:19:20.103 14aa Delete type=2 #348
+2023/06/14-17:19:20.103 14aa Delete type=2 #350

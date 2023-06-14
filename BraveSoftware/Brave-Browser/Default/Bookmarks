@@ -1,0 +1,55 @@
+{
+   "checksum": "7bf72b07aad8dc3a7bf2fdf43faff328",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13325878783000000",
+            "date_last_used": "0",
+            "guid": "6cb01a80-aebd-4233-9a94-92628193900a",
+            "id": "42",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13329655290083185",
+            "date_last_used": "0",
+            "guid": "3910d226-8735-430a-8150-4aff4d2ef212",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "er",
+            "type": "url",
+            "url": "https://github.com/login?allow_signup=false&client_id=559030f984ca6f09dfe3&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D559030f984ca6f09dfe3%26redirect_uri%3Dhttps%253A%252F%252Fflathub.org%252Flogin%252Fgithub%26scope%3Dread%253Auser%2Bread%253Aorg%26state%3D60276a1a7894471fbc93bd34b43749e8"
+         } ],
+         "date_added": "13329072079676295",
+         "date_last_used": "0",
+         "date_modified": "13329655290083185",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13329072079676296",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13329072079676297",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,7 @@
+2023/06/13-19:19:07.257 1f36 Reusing MANIFEST /home/karsten/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/13-19:19:07.257 1f36 Recovering log #3
+2023/06/13-19:19:07.258 1f36 Reusing old log /home/karsten/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000003.log 
+2023/06/13-19:19:18.163 1f37 Level-0 table #5: started
+2023/06/13-19:19:18.166 1f37 Level-0 table #5: 4167 bytes OK
+2023/06/13-19:19:18.170 1f37 Delete type=0 #3
+2023/06/13-19:19:18.170 1f37 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

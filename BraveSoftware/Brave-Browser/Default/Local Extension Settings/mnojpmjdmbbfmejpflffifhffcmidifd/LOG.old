@@ -1,0 +1,12 @@
+2023/06/14-15:36:29.750 1126 Reusing MANIFEST /home/karsten/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2023/06/14-15:36:29.751 1126 Recovering log #464
+2023/06/14-15:36:29.763 1126 Reusing old log /home/karsten/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000464.log 
+2023/06/14-15:41:54.962 1118 Level-0 table #469: started
+2023/06/14-15:41:54.972 1118 Level-0 table #469: 332138 bytes OK
+2023/06/14-15:41:54.976 1118 Delete type=0 #464
+2023/06/14-15:55:41.460 1118 Compacting 1@1 + 1@2 files
+2023/06/14-15:55:41.467 1118 Generated table #470@1: 11 keys, 67238 bytes
+2023/06/14-15:55:41.467 1118 Compacted 1@1 + 1@2 files => 67238 bytes
+2023/06/14-15:55:41.470 1118 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/14-15:55:41.471 1118 Delete type=2 #466
+2023/06/14-15:55:41.471 1118 Delete type=2 #469
